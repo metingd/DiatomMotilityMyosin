@@ -1,3 +1,4 @@
+//This macro registers an open .tif stack using transformation coordinates generated in MATLAB from TrackMate tracking data
 //Define px size (set to 1 as default unless otherwise specified in MATLAB tracking script)
 px = 1
 run("Close All");
