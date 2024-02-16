@@ -1,3 +1,4 @@
+//This macro reduces horizontal abberations in an open kymograph .tif file and rotates it 90 degrees left to facilitate directionality measurements
 //Get name of currently open kymograph
 name = getInfo("image.filename");
 run("Remove Overlay");
